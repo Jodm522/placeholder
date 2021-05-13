@@ -1,0 +1,22 @@
+:root {
+  --main-background-color: #233545;
+  --text-color: #f2f2f1;
+  --dark-accent-color: #6a797d;
+  --main-color: #21598c;
+  --light-accent-color: #769ebf;
+}
+
+body {
+  background-color: var(--main-background-color);
+  color: var(--text-color);
+}
+
+.dark-accent {
+  background-color: var(--dark-accent-color);
+}
+.main-color {
+  background-color: var(--main-color);
+}
+.light-accent {
+  background-color: var(--light-accent-color);
+}
