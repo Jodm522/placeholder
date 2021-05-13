@@ -20,3 +20,7 @@ body {
 .light-accent {
   background-color: var(--light-accent-color);
 }
+
+img {
+  height: 300px;
+}
